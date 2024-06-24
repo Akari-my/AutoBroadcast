@@ -1,0 +1,6 @@
+name: AutoBroadcast
+version: 1.0.0
+author: Akari_my
+api: 5.0.0
+main: Akari_my\AutoBroadcast\Main
+description: A plugin that sends broadcast messages
