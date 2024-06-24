@@ -1,4 +1,4 @@
-![minecraft_title](https://github.com/Akari-my/AutoBroadcast/assets/58370835/91ce45a1-5d92-48e0-b091-b6e812687bfc)
+![minecraft_title (1)](https://github.com/Akari-my/AutoBroadcast/assets/58370835/51434beb-bd80-4225-8496-7846c41fafa8)
 
 ## Config
 ```yaml
