@@ -1,0 +1,9 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Akari-my/AutoBroadcast
+build-by-default: true
+branches:
+- main
+projects:
+  AutoBroadcast:
+    path: ""
+    icon: "icon.png"
+...
