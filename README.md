@@ -19,6 +19,10 @@ broadcast-message:
   - "§7Do you need support for the plugin? contact me on discord. @akari_my"
   - "§7To always be updated on the plugin, always visit the github. https://github.com/Akari-my"
   - "§7§7AutoBroadcast made with §c❤ §7by §eAkari_my"
+
+messages:
+  no_permission: "§cYou do not have permission to use this command."
+  usage: "§cUsage: /broadcast <message>"
 ```
 
 ## Bugs?
